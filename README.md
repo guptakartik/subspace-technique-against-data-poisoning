@@ -1,6 +1,6 @@
 ## Subspace Technique Against Data Poisoning Attacks
 
-In this repository we make the experiments available for our techniques.
+This repository contains the notebooks for our experiments.
 
 Dependencies:
 
